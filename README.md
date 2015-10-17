@@ -1,8 +1,8 @@
 #Tetris
 
-This was my first fully functional Application
+This was my first fully functional application
 
-It was written in Java
+It was written in Java  
 You can download the .jar file to run the applicaton
 
 Keys
